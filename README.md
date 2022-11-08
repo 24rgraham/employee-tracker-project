@@ -20,9 +20,7 @@ To initialize this program you will need to enter the command "node index.js" in
 
 ## Tests
 
-<!-- ![](/assets/employee-db.gif) -->
-
-![](/employee-tracker-project/assets/employee-db.gif)
+![](/assets/employee-db.gif)
 
 ## License
 
