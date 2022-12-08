@@ -22,6 +22,8 @@ To initialize this program you will need to enter the command "node index.js" in
 
 ![](/assets/employee-db.gif)
 
+https://youtu.be/iaIgN2d0LFw
+
 ## License
 
 This application is covered under the MIT_License.
